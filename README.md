@@ -1,6 +1,51 @@
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
 
-# Hi Everyone i'm Thanaphoom, Welcome to My Github Profile 😁
+###
 
-<!-- Status -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ophoomo&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ophoomo&langs_count=5&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h1 align="center">Hi 👋, I'm THANAPHOOM</h1>
+<h3 align="center">I am a Full Stack Developer from Thailand</h3>
+
+###
+
+### :woman_technologist: About Me :
+- 🌱 I’m currently learning **Kotlin, Ktor, Spring Boot, .NET Core**
+- 📫 How to reach me **me@thanaphoom.dev**
+
+###
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" width="52" alt="kotlin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" width="52" alt="tensorflow logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" width="52" alt="ruby logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" width="52" alt="kubernetes logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" width="52" alt="digitalocean logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" width="52" alt="googlecloud logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" width="52" alt="go logo"  />
+</div>
+
+###
+
+### :trophy: GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ophoomo&theme=dark&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=ophoomo&layout=compact&hide_border=true&theme=dark&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![](https://visitcount.itsvg.in/api?id=ophoomo&icon=3&color=1)](https://visitcount.itsvg.in)
+
+###
+
+<img src="https://raw.githubusercontent.com/ophoomo/ophoomo/blob/output/snake.svg" alt="Snake animation" />
+
+###
