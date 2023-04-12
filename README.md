@@ -46,6 +46,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ophoomo/ophoomo/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ophoomo/ophoomo/output/snake.svg" alt="Snake animation" />
 
 ###
