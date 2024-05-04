@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://raw.githubusercontent.com/ophoomo/ophoomo/main/profile.gif"  />
+  <img height="150" src="https://raw.githubusercontent.com/ophoomo/ophoomo/main/assets/profile.gif"  />
 </div>
 
 ###
