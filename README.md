@@ -10,7 +10,7 @@
 ###
 
 ### :woman_technologist: About Me :
-- 🌱 I’m currently learning **MonoGame, .NET Core**
+- 🌱 I’m currently learning **Zig**
 - 📫 How to reach me **me@thanaphoom.dev**
 
 ###
