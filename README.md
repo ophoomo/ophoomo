@@ -10,7 +10,7 @@
 ###
 
 ### :woman_technologist: About Me :
-- 🌱 I’m currently learning **Zig**
+- 🌱 I’m currently learning **Zig** **Rust**
 - 📫 How to reach me **me@thanaphoom.dev**
 
 ###
