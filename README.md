@@ -10,7 +10,7 @@
 ###
 
 ### :woman_technologist: About Me :
-- 🌱 I’m currently learning **Zig**, **Rust**
+- 🌱 I’m currently learning **Zig**, **C/C++**
 - 🎮 I enjoy studying game engines
 - 📫 How to reach me **me@thanaphoom.dev**
 
